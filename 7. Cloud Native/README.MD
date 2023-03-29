@@ -17,3 +17,12 @@
 ## CNCF (Cloud Native Computing Foundation)
 
 We bring together the world's top developers, end users, and vendors and run the largest open source developer conferences. CNCF is part of a nonprofit Linux Foundation
+
+* Nonprofit foundation
+* 153 projects and countig
+* Founded in 2015
+* Part of Linux Foundation
+* Responsible for:
+  * Kubernets, Prometheus, OTEL, Envoy, Jaeger
+* Certification programs
+
