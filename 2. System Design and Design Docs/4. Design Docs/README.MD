@@ -51,3 +51,18 @@ This is what adds more value to the document. It should be done carefully.
 * Implantantion
 * Questions not answered
 
+## Document Lifecicle
+
+![Alt text](design-docs-lifecycle.png)
+
+## When to not write this document
+
+* When there is no complexity
+* When the solution is imposed
+* When the team does not use the document and sees it as a waste of time
+
+## Other documents
+
+* ADR
+* RFC
+* Tutorial
